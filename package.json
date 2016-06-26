@@ -1,0 +1,19 @@
+{
+  "name": "grodnolib-news",
+  "version": "1.0.0",
+  "description": "Fetch news from grodnolib.by",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Pavel Zubkou",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "moment": "^2.13.0",
+    "node-fetch": "^1.5.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
